@@ -10,4 +10,4 @@
 3. test006
 
 
-- [x]md file markdown format
+- [x] md file markdown format
