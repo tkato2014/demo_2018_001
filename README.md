@@ -29,8 +29,6 @@
 |:-----|------:|:----:|  
 |test  |test    |test   |
 
-aaa
-
-bbb
+aaa  bbb  ccc
 
 ccc
